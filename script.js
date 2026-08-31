@@ -52,6 +52,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Yes button action
     yesBtn.addEventListener('click', () => {
-        document.querySelector('.container').innerHTML = '<h1>i knew it! i love you too!😚</h1>';
+        document.querySelector('.container').innerHTML = '<h1>I knew it,i love you too!😚</h1>';
     });
 });
